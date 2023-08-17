@@ -1,0 +1,21 @@
+**************************************************
+* PROGRAMMED BY : Natasha Lukmanto
+* CLASS         : CS 1B
+* SECTION       : M-Th: 5:00p - 7:20p
+* LAB #-7       : Lab #11 - Introduction to Recursion
+**************************************************
+
+**************************************************
+* PROGRAMMED BY : Natasha Lukmanto
+* CLASS         : CS 1B
+* SECTION       : M-Th: 5:00p - 7:20p
+* LAB #-7       : Lab #11 - Introduction to Recursion
+**************************************************
+
+The GCD for 72 & 32 = 8
+
+The GCD for 99 & 30 = 3
+
+The GCD for 48 & 18 = 6
+
+The GCD for 12 & 0 = 12
